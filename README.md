@@ -28,12 +28,3 @@ Maps	Google Maps SDK for Android
 Backend / Storage	SQLite local DB
 Library	Speech Recognition Module
 
-📂 Project Structure
-
-SheSecure/
-│── app/                 → Main Android application source
-│── speech/              → Speech detection module
-│── build.gradle         → Project Gradle configuration
-│── gradle.properties    
-│── settings.gradle
-└── .gitignore
