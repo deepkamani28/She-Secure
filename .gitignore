@@ -1,0 +1,23 @@
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+# Common build folders
+/build
+*/build/
+**/build/
+
+# Android specific
+.gradle/
+.local/
+.idea/
+*.iml
+
+# Keystores
+*.jks
+*.keystore

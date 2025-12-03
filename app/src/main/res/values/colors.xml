@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="powerRed">#C34A48</color>
+    <color name="powerRedLight">#f9eded</color>
+
+    <color name="powerGreen">#388E3C</color>
+    <color name="powerGreenLight">#ebf4ec</color>
+</resources>
